@@ -1,0 +1,2 @@
+# applescripts
+collection applescripts
